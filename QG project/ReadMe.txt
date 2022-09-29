@@ -1,6 +1,3 @@
-Dear Prof., I hope you are doing well.
-coded the work presented in the proposed research with a Python Jupyter netbook. 
-This makes it easier for us to explore the shortcomings of this method and ways to mitigate them.
 
 Here are some notes for this project:
 
@@ -16,6 +13,4 @@ Here are some notes for this project:
    
  - We visualized 25 network graphs and created the two Html files(Ploting_Outpots_For_GroupA, and Ploting_Outpots_For_GroupD ) to display output plotting.
  - We plotted the Scalp activities based on shortest path length and laplacian_matrix.
- - This work was created from scratch. 
- -  Most Thanks, Dear Prof. Sameer.
- 
+ -
